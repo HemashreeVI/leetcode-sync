@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/HemashreeVI/leetcode-sync/tree/master/0189-rotate-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/HemashreeVI/leetcode-sync/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HemashreeVI/leetcode-sync/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Math
 |  |
 | ------- |
@@ -14,4 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/HemashreeVI/leetcode-sync/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HemashreeVI/leetcode-sync/tree/master/3331-find-subtree-sizes-after-changes) |
+## String
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HemashreeVI/leetcode-sync/tree/master/3331-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HemashreeVI/leetcode-sync/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HemashreeVI/leetcode-sync/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
