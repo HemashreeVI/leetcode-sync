@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="620" viewBox="0 0 840 620" role="img" aria-label="LeetCode Journey: 8 problems solved, 3 easy, 5 medium, 0 hard, all in Java">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0f19"/>
+      <stop offset="1" stop-color="#080a12"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #e5e7eb; }
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+      .muted { fill: #9ca3af; }
+      .h { font-size: 18px; font-weight: 700; fill: #ffffff; }
+      .panel { fill: #111522; stroke: #262b3b; stroke-width: 1.2; }
+      .glowline { animation: pulse 4s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: .55 } 50% { opacity: 1 } }
+      .fade { opacity: 0; animation: in .8s ease-out forwards; }
+      .d1 { animation-delay: .1s } .d2 { animation-delay: .3s } .d3 { animation-delay: .5s } .d4 { animation-delay: .7s } .d5 { animation-delay: .9s }
+      @keyframes in { from { opacity: 0; transform: translateY(6px) } to { opacity: 1; transform: none } }
+    </style>
+  </defs>
+
+  <!-- card -->
+  <rect x="14" y="14" width="812" height="592" rx="28" fill="url(#bg)"/>
+  <rect class="glowline" x="14" y="14" width="812" height="592" rx="28" fill="none" stroke="url(#border)" stroke-width="4" filter="url(#glow)"/>
+
+  <!-- header -->
+  <g class="fade d1">
+    <rect x="44" y="44" width="11" height="11" rx="2" fill="none" stroke="#9ca3af" stroke-width="1.5"/>
+    <text x="64" y="54" class="mono muted" font-size="13">README.md</text>
+    <text x="44" y="102" font-size="38" font-weight="800" fill="#ffffff">LeetCode <tspan fill="url(#title)">Journey</tspan></text>
+    <text x="44" y="132" font-size="15" class="muted">Daily problem solving in Java · auto-synced with LeetHub</text>
+  </g>
+
+  <!-- badge -->
+  <g class="fade d1">
+    <circle cx="738" cy="92" r="50" fill="#111522" stroke="url(#border)" stroke-width="4" filter="url(#glow)"/>
+    <text x="738" y="105" text-anchor="middle" class="mono" font-size="34" font-weight="700" fill="url(#title)">&lt;/&gt;</text>
+  </g>
+
+  <!-- Problems solved -->
+  <g class="fade d2">
+    <rect class="panel" x="44" y="168" width="366" height="196" rx="16"/>
+    <text x="66" y="200" class="h">Problems Solved</text>
+    <circle cx="140" cy="280" r="50" fill="none" stroke="#1f2433" stroke-width="16"/>
+    <circle cx="140" cy="280" r="50" fill="none" stroke="#00b8a3" stroke-width="16" stroke-dasharray="117.8 314.16" transform="rotate(-90 140 280)"/>
+    <circle cx="140" cy="280" r="50" fill="none" stroke="#ffc01e" stroke-width="16" stroke-dasharray="196.35 314.16" stroke-dashoffset="-117.8" transform="rotate(-90 140 280)"/>
+    <text x="140" y="288" text-anchor="middle" font-size="28" font-weight="800" fill="#ffffff">8</text>
+    <text x="140" y="306" text-anchor="middle" font-size="11" class="muted">solved</text>
+
+    <circle cx="232" cy="242" r="6" fill="#00b8a3"/>
+    <text x="246" y="247" font-size="15">Easy</text><text x="384" y="247" text-anchor="end" font-size="15" font-weight="700">3</text>
+    <circle cx="232" cy="280" r="6" fill="#ffc01e"/>
+    <text x="246" y="285" font-size="15">Medium</text><text x="384" y="285" text-anchor="end" font-size="15" font-weight="700">5</text>
+    <circle cx="232" cy="318" r="6" fill="#ef4743"/>
+    <text x="246" y="323" font-size="15">Hard</text><text x="384" y="323" text-anchor="end" font-size="15" font-weight="700">0</text>
+  </g>
+
+  <!-- Top topics -->
+  <g class="fade d3">
+    <rect class="panel" x="430" y="168" width="366" height="196" rx="16"/>
+    <text x="452" y="200" class="h">Top Topics</text>
+    <g font-size="14">
+      <text x="452" y="230">Array</text>        <rect x="572" y="220" width="170" height="10" rx="5" fill="#1f2433"/><rect x="572" y="220" width="170" height="10" rx="5" fill="url(#bar)"/><text x="772" y="230" text-anchor="end" font-weight="700">5</text>
+      <text x="452" y="257">Math</text>         <rect x="572" y="247" width="170" height="10" rx="5" fill="#1f2433"/><rect x="572" y="247" width="102" height="10" rx="5" fill="url(#bar)"/><text x="772" y="257" text-anchor="end" font-weight="700">3</text>
+      <text x="452" y="284">String</text>       <rect x="572" y="274" width="170" height="10" rx="5" fill="#1f2433"/><rect x="572" y="274" width="102" height="10" rx="5" fill="url(#bar)"/><text x="772" y="284" text-anchor="end" font-weight="700">3</text>
+      <text x="452" y="311">Two Pointers</text> <rect x="572" y="301" width="170" height="10" rx="5" fill="#1f2433"/><rect x="572" y="301" width="68" height="10" rx="5" fill="url(#bar)"/><text x="772" y="311" text-anchor="end" font-weight="700">2</text>
+      <text x="452" y="338">Linked List</text>  <rect x="572" y="328" width="170" height="10" rx="5" fill="#1f2433"/><rect x="572" y="328" width="34" height="10" rx="5" fill="url(#bar)"/><text x="772" y="338" text-anchor="end" font-weight="700">1</text>
+    </g>
+  </g>
+
+  <!-- Recent solutions -->
+  <g class="fade d4">
+    <rect class="panel" x="44" y="384" width="466" height="144" rx="16"/>
+    <text x="66" y="416" class="h">Recent Solutions</text>
+    <g font-size="14">
+      <text x="66" y="446">• Find Subtree Sizes After Changes</text><text x="488" y="446" text-anchor="end" font-size="12" fill="#ffc01e">Medium</text>
+      <text x="66" y="472">• Min Changes to Make Binary String Beautiful</text><text x="488" y="472" text-anchor="end" font-size="12" fill="#ffc01e">Medium</text>
+      <text x="66" y="498">• Check if All A's Appears Before All B's</text><text x="488" y="498" text-anchor="end" font-size="12" fill="#00b8a3">Easy</text>
+    </g>
+  </g>
+
+  <!-- Language -->
+  <g class="fade d4">
+    <rect class="panel" x="530" y="384" width="266" height="144" rx="16"/>
+    <text x="552" y="416" class="h">Language</text>
+    <circle cx="560" cy="447" r="6" fill="#b07219"/>
+    <text x="574" y="452" font-size="15">Java</text>
+    <text x="774" y="452" text-anchor="end" font-size="15" font-weight="700">100%</text>
+    <rect x="552" y="466" width="222" height="10" rx="5" fill="#b07219"/>
+    <text x="552" y="506" font-size="13" class="muted">12 topics covered</text>
+  </g>
+
+  <!-- footer -->
+  <g class="fade d5">
+    <rect class="panel" x="44" y="546" width="752" height="44" rx="14"/>
+    <text x="66" y="574" font-size="15" font-weight="700" fill="#ffffff">One problem a day keeps the bugs away</text>
+    <text x="774" y="574" text-anchor="end" font-size="12" class="muted">Synced with LeetHub v2</text>
+  </g>
+</svg>
