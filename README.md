@@ -39,12 +39,14 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/HemashreeVI/leetcode-sync/tree/main/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HemashreeVI/leetcode-sync/tree/main/1352-product-of-the-last-k-numbers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/HemashreeVI/leetcode-sync/tree/main/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HemashreeVI/leetcode-sync/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HemashreeVI/leetcode-sync/tree/main/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/HemashreeVI/leetcode-sync/tree/main/0189-rotate-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HemashreeVI/leetcode-sync/tree/main/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HemashreeVI/leetcode-sync/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +88,18 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/HemashreeVI/leetcode-sync/tree/main/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HemashreeVI/leetcode-sync/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HemashreeVI/leetcode-sync/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HemashreeVI/leetcode-sync/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
 
 </details>
