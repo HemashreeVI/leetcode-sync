@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HemashreeVI/leetcode-sync/tree/main/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/HemashreeVI/leetcode-sync/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/HemashreeVI/leetcode-sync/tree/main/0189-rotate-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HemashreeVI/leetcode-sync/tree/main/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/HemashreeVI/leetcode-sync/tree/master/3411-maximum-subarray-with-equal-products) |
