@@ -60,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/HemashreeVI/leetcode-sync/tree/master/0006-zigzag-conversion) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/HemashreeVI/leetcode-sync/tree/main/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/HemashreeVI/leetcode-sync/tree/main/3331-find-subtree-sizes-after-changes) |
 ## Tree
