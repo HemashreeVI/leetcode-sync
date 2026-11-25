@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HemashreeVI/leetcode-sync/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/HemashreeVI/leetcode-sync/tree/main/0189-rotate-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/HemashreeVI/leetcode-sync/tree/main/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HemashreeVI/leetcode-sync/tree/main/1352-product-of-the-last-k-numbers) |
@@ -52,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HemashreeVI/leetcode-sync/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/HemashreeVI/leetcode-sync/tree/main/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -120,6 +122,10 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/HemashreeVI/leetcode-sync/tree/master/3934-smallest-unique-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/HemashreeVI/leetcode-sync/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
 
 </details>
