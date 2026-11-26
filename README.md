@@ -49,6 +49,7 @@
 | [0007-reverse-integer](https://github.com/HemashreeVI/leetcode-sync/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/HemashreeVI/leetcode-sync/tree/main/0189-rotate-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HemashreeVI/leetcode-sync/tree/main/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/HemashreeVI/leetcode-sync/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/HemashreeVI/leetcode-sync/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
@@ -126,6 +127,10 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HemashreeVI/leetcode-sync/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/HemashreeVI/leetcode-sync/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
 
 </details>
