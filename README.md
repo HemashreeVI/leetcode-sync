@@ -49,6 +49,7 @@
 | [0007-reverse-integer](https://github.com/HemashreeVI/leetcode-sync/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/HemashreeVI/leetcode-sync/tree/main/0189-rotate-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HemashreeVI/leetcode-sync/tree/main/1352-product-of-the-last-k-numbers) |
+| [1510-stone-game-iv](https://github.com/HemashreeVI/leetcode-sync/tree/master/1510-stone-game-iv) |
 | [3360-stone-removal-game](https://github.com/HemashreeVI/leetcode-sync/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/HemashreeVI/leetcode-sync/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Two Pointers
@@ -131,6 +132,30 @@
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/HemashreeVI/leetcode-sync/tree/master/3360-stone-removal-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HemashreeVI/leetcode-sync/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HemashreeVI/leetcode-sync/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HemashreeVI/leetcode-sync/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HemashreeVI/leetcode-sync/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HemashreeVI/leetcode-sync/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HemashreeVI/leetcode-sync/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
 
 </details>
