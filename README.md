@@ -42,6 +42,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/HemashreeVI/leetcode-sync/tree/main/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/HemashreeVI/leetcode-sync/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/HemashreeVI/leetcode-sync/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/HemashreeVI/leetcode-sync/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HemashreeVI/leetcode-sync/tree/master/0011-container-with-most-water) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/HemashreeVI/leetcode-sync/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/HemashreeVI/leetcode-sync/tree/master/1510-stone-game-iv) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/HemashreeVI/leetcode-sync/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
